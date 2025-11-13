@@ -1,0 +1,4 @@
+ogc_fid,objectid,namobj,fcode,remark,metadata,srs_id,jmlrel,kebrel,klsrel,kmxrel,tiprel
+1,1,Trase A,CD02060080,Rencana Induk Kereta Api Perkotaan di Ibukota Provinsi Aceh,,EPSG:4326,0,0,0,0.0,2
+2,2,Trase B,CD02060080,Rencana Induk Kereta Api Perkotaan di Ibukota Provinsi Aceh,,EPSG:4326,0,0,0,0.0,2
+3,3,Trase C,CD02060080,Rencana Induk Kereta Api Perkotaan di Ibukota Provinsi Aceh,,EPSG:4326,0,0,0,0.0,2

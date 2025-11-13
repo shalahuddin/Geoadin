@@ -1,0 +1,12 @@
+ogc_fid,objectid,namobj,fcode,remark,metadata,srs_id,adabmi,funaip,hiraip,kataip,kdiata,kdicao,kepaip,klsbmi,lgtbmi,mavbmi,tipaip,tiplok,elevas,adrbmi
+1,1,Bandar Udara Sultan Iskandar Muda di Aceh Besar,CC01050140,,KM 166 Tahun 2019,WGS 1984,PT. Angkasa Pura II / Perum LPPNPI (AirNav),1,1,1,BTJ,WITT,1,12,0.0,0.0,3,1,0.0,0
+2,2,Bandar Udara Lasikin di Sinabang,CC01050140,,KM 166 Tahun 2019,WGS 1984,Unit Pengelola Bandar Udara Kemenhub,1,2,2,SNB,WITG,1,11,0.0,0.0,4,1,0.0,0
+3,3,Bandar Udara Kuala Batee di Blangpidie,CC01050140,,KM 166 Tahun 2019,WGS 1984,Pemerintah Daerah,1,2,2,KJX,,1,6,0.0,0.0,4,1,0.0,0
+4,4,Bandar Udara Teuku Cut Ali Tapaktuan,CC01050140,,KM 166 Tahun 2019,WGS 1984,Unit Pengelola Bandar Udara Kemenhub,1,2,2,TPK,WITA,1,6,0.0,0.0,4,1,0.0,0
+5,5,Bandar Udara Cut Nyak Dhien di Nagan Raya,CC01050140,,KM 166 Tahun 2019,WGS 1984,Unit Pengelola Bandar Udara Kemenhub,1,2,2,MEQ,WITC,1,12,0.0,0.0,4,1,0.0,0
+6,6,Bandar Udara Rembele di Bener Meriah,CC01050140,,KM 166 Tahun 2019,WGS 1984,Unit Pengelola Bandar Udara Kemenhub,1,2,2,TXE,WITK,1,11,0.0,0.0,4,1,0.0,0
+7,7,Bandar Udara Maimun Saleh di Sabang,CC01050140,,KM 166 Tahun 2019,WGS 1984,Unit Pengelola Bandar Udara Kemenhub,1,2,2,SBG,WIAB,1,11,0.0,0.0,4,1,0.0,0
+8,8,Bandar Udara Malikussaleh Lhokseumawe,CC01050140,,KM 166 Tahun 2019,WGS 1984,Unit Pengelola Bandar Udara Kemenhub,1,2,2,LSW,WITM,1,6,0.0,0.0,4,1,0.0,0
+9,9,Bandar Udara Alas Leuser Kuta Cane,CC01050140,,KM 166 Tahun 2019,WGS 1984,Unit Pengelola Bandar Udara Kemenhub,1,2,2,KTC,WIMU,1,6,0.0,0.0,4,1,0.0,0
+10,10,Bandar Udara Syekh Hamzah Fansyuri di Aceh Singkil,CC01050140,,KM 166 Tahun 2019,WGS 1984,Pemerintah Daerah,1,2,2,SKL,,1,6,0.0,0.0,4,1,0.0,0
+11,11,Bandar Udara Patiambang di Blang Keujeren,CC01050140,,KM 166 Tahun 2019,WGS 1984,Unit Pengelola Bandar Udara Kemenhub,1,2,2,GYO,,1,6,0.0,0.0,4,1,0.0,0

@@ -1,0 +1,96 @@
+ogc_fid,objectid,namobj,fcode,remark,metadata,srs_id,jnspls,daya
+1,1,PLTA Peusangan 1-2,HB01050120,"COD 2020 (43 MW), 2021 (45 MW)",Aceh Tengah,WGS 1984,1,88.0
+2,2,PLTA Kumbih-3,HB01050120,COD 2024,Subulussalam,WGS 1984,1,45.0
+3,3,PLTA Krueng Isep,HB01050120,"COD 2019 (10 MW), 2021 (2 x 5 MW)",Nagan Raya,WGS 1984,1,20.0
+4,4,PLTM Lake Sikap,HB01050120,COD 2020,Aceh Tenggara,WGS 1984,1,7.0
+5,5,PLTM Sepakat,HB01050120,telah beroperasi,Aceh Tenggara,WGS 1984,1,1.4
+6,6,PLTA Lawe Alas (Alas),HB01050120,"Calon IPP, Potensi (RUPTL 2019)",Aceh Tenggara,WGS 1984,1,120.0
+7,7,PLTA Gumpang,HB01050120,"Calon IPP, Potensi (RUPTL 2019)",Gayo Lues,WGS 1984,1,19.0
+8,8,PLTA Kla,HB01050120,"Calon IPP, Potensi (RUPTL 2019)",Gayo Lues,WGS 1984,1,12.0
+9,9,PLTA Lae Suraya,HB01050120,"Calon IPP, Potensi (RUPTL 2019)",Subulussalam,WGS 1984,1,240.0
+10,10,PLTA Jambo Aye,HB01050120,"Calon IPP, Potensi (RUPTL 2019)",Aceh Timur/Aceh Utara,WGS 1984,1,140.0
+11,11,PLTA Kluet-1,HB01050120,"Calon IPP, Potensi (RUPTL 2019)",Aceh Selatan,WGS 1984,1,180.0
+12,12,PLTA Teunom 2,HB01050120,"Calon IPP, Potensi (RUPTL 2019)",Aceh Jaya,WGS 1984,1,240.0
+13,13,PLTA Tripa 3,HB01050120,"Calon IPP, Potensi (RUPTL 2019)",Nagan Raya,WGS 1984,1,192.0
+14,14,PLTA Cinendang,HB01050120,"Calon IPP, Potensi (RUPTL 2019)",Aceh Singkil,WGS 1984,1,75.5
+15,15,PLTA Peusangan V-B,HB01050120,"Calon IPP, Potensi (RUPTL 2019)",Bener Meriah,WGS 1984,1,12.56
+16,16,PLTA Babahrot,HB01050120,"Calon IPP, Potensi (RUPTL 2019)",Aceh Barat Daya,WGS 1984,1,150.0
+17,17,PLTA Meureubo 3,HB01050120,"Calon IPP, Potensi (RUPTL 2019)",Nagan Raya,WGS 1984,1,100.0
+18,18,PLTA Jagong Jeget,HB01050120,"Calon IPP, Potensi (RUPTL 2019)",Aceh Tengah,WGS 1984,1,41.0
+19,19,PLTA Teunom 3,HB01050120,"Calon IPP, Potensi (RUPTL 2019)",Aceh Jaya,WGS 1984,1,83.64
+20,20,PLTA Tampur 1,HB01050120,"Calon IPP, Potensi (RUPTL 2019)","Aceh Timur, Aceh Tamiang, Gayo Lues",WGS 1984,1,443.0
+21,21,PLTA Leuteung,HB01050120,"Calon IPP, Potensi (RUPTL 2019)",Pidie,WGS 1984,1,14.7
+22,22,PLTA Samar Kilang,HB01050120,"Calon IPP, Potensi (RUPTL 2019)",Bener Meriah,WGS 1984,1,76.8
+23,23,PLTA Tripa,HB01050120,"Calon IPP, Potensi (RUPTL 2019)",Gayo Lues,WGS 1984,1,52.0
+24,24,PLTA Tripa 2,HB01050120,"Calon IPP, Potensi (RUPTL 2019)",Gayo Lues,WGS 1984,1,114.2
+25,25,PLTA Tripa 1,HB01050120,"Calon IPP, Potensi (RUPTL 2019)",Gayo Lues,WGS 1984,1,48.0
+26,26,PLTA Woyla 1,HB01050120,"Calon IPP, Potensi (RUPTL 2019)",Aceh Barat,WGS 1984,1,174.9
+27,27,PLTA Kluet 2,HB01050120,"Calon IPP, Potensi (RUPTL 2019)",Aceh Selatan,WGS 1984,1,120.0
+28,28,PLTA Woyla 5,HB01050120,Potensi (RUPTL 2019),Aceh Barat,WGS 1984,1,56.0
+29,29,PLTA Peusangan IV,HB01050120,Potensi (RUPTL 2019),Aceh Tengah,WGS 1984,1,120.0
+30,30,PLTA Redelong,HB01050120,Potensi (RUPTL 2019),Bener Meriah,WGS 1984,1,18.0
+31,31,PLTA Meureubo,HB01050120,Potensi (RUPTL 2019),Aceh Barat,WGS 1984,1,38.0
+32,32,PLTA Meureubo 2,HB01050120,Potensi (RUPTL 2019),Aceh Barat,WGS 1984,1,59.0
+33,33,PLTA Krueng Meriam,HB01050120,Potensi (RUPTL 2019),Pidie,WGS 1984,1,48.0
+34,34,PLTM Ketol A,HB01050120,Potensi (RUPTL 2019),Aceh Tengah,WGS 1984,1,10.0
+35,35,PLTM Lawe Gurah,HB01050120,Potensi (RUPTL 2019),Aceh Tenggara,WGS 1984,1,4.5
+36,36,PLTM Teunom,HB01050120,Potensi (RUPTL 2019),Aceh Jaya,WGS 1984,1,10.0
+37,37,PLTM Tembolon (Bidin 2),HB01050120,Potensi (RUPTL 2019),Bener Meriah,WGS 1984,1,3.1
+38,38,PLTM Lawe Mamas,HB01050120,Potensi (RUPTL 2019),Aceh Tenggara,WGS 1984,1,9.6
+39,39,PLTM Kemerleng Uning,HB01050120,Potensi (RUPTL 2019),Gayo Lues,WGS 1984,1,6.0
+40,40,PLTM Lhok Pineung,HB01050120,Potensi (RUPTL 2019),Pidie Jaya,WGS 1984,1,5.1
+41,41,PLTM Lawe Bulan,HB01050120,Potensi (RUPTL 2019),Aceh Tenggara,WGS 1984,1,6.5
+42,42,PLTM Kerpap,HB01050120,Potensi (RUPTL 2019),Aceh Tengah,WGS 1984,1,2.2
+43,43,PLTM Subulussalam,HB01050120,Potensi (RUPTL 2019),Subulussalam,WGS 1984,1,7.4
+44,44,PLTM Bener Meriah,HB01050120,Potensi (RUPTL 2019),Bener Meriah,WGS 1984,1,7.5
+45,45,PLTM Mangku Sosial,HB01050120,Potensi (RUPTL 2019),Bener Meriah,WGS 1984,1,7.2
+46,46,PLTA Geupo,HB01050120,Calon IPP,Pidie,WGS 1984,1,100.0
+47,47,PLTA Krueng Sikuleh,HB01050120,Calon IPP,Pidie,WGS 1984,1,100.0
+48,48,PLTA Tripa-1b,HB01050120,Calon IPP,Aceh Barat Daya,WGS 1984,1,100.0
+49,49,PLTA Luteng-1 dan Luteng 2,HB01050120,Calon IPP,Pidie,WGS 1984,1,18.8
+50,50,PLTA Jambo Aye,HB01050120,Calon IPP,Bener Meriah,WGS 1984,1,75.4
+51,51,PLTA Lumut,HB01050120,Calon IPP,Aceh Tengah,WGS 1984,1,15.0
+52,52,PLTA Pertik-1,HB01050120,Calon IPP,Aceh Tengah,WGS 1984,1,11.3
+53,53,PLTA Woyla,HB01050120,Calon IPP,Aceh Barat,WGS 1984,1,250.0
+54,54,PLTA Lawe Mamas,HB01050120,Calon IPP,Aceh Tenggara,WGS 1984,1,47.5
+55,55,PLTA Tripa-1a,HB01050120,Calon IPP,Gayo Lues,WGS 1984,1,48.0
+56,56,PLTA Peusangan -5A,HB01050120,Calon IPP,Aceh Tengah/Bener Meriah,WGS 1984,1,10.92
+57,57,PLTA Meureubo-1,HB01050120,Calon IPP,Aceh Barat,WGS 1984,1,50.0
+58,58,PLTA Lae Alas,HB01050120,Calon IPP,Subulussalam,WGS 1984,1,124.0
+59,59,PLTA Alue Peunawa,HB01050120,Calon IPP,Nagan Raya,WGS 1984,1,100.0
+60,60,PLTA Jambo Aye-3,HB01050120,Potensi,Aceh Tengah,WGS 1984,1,37.2
+61,61,PLTA Pameu,HB01050120,Potensi,Aceh Tengah,WGS 1984,1,160.6
+62,62,PLTA Tampur 2,HB01050120,Potensi,"Aceh Timur, Aceh Tamiang, Gayo Lues",WGS 1984,1,40.0
+63,63,PLTM Kemerleng Uning,HB01050120,Potensi,Aceh Tengah,WGS 1984,1,4.0
+64,64,PLTA Meukup,HB01050120,Potensi,Pidie,WGS 1984,1,15.0
+65,65,PLTA Peureulak,HB01050120,Potensi,Aceh Timur,WGS 1984,1,34.8
+66,66,PLTA Ramasan-1,HB01050120,Potensi,Aceh Timur,WGS 1984,1,171.6
+67,67,PLTA Jambo Papeun-2,HB01050120,Potensi,Aceh Selatan,WGS 1984,1,95.2
+68,68,PLTA Jambo Papeun-3,HB01050120,Potensi,Aceh Selatan,WGS 1984,1,25.0
+69,69,PLTA Sibubung-1,HB01050120,Potensi,Aceh Selatan,WGS 1984,1,32.0
+70,70,PLTA Sibubung-2,HB01050120,Potensi,Aceh Selatan,WGS 1984,1,121.1
+71,71,PLTA Sibubung-3,HB01050120,Potensi,Aceh Selatan,WGS 1984,1,22.6
+72,72,PLTA Dolok-1,HB01050120,Potensi,Aceh Barat,WGS 1984,1,32.2
+73,73,PLTA Kluet,HB01050120,Potensi,Aceh Selatan,WGS 1984,1,141.0
+74,74,PLTP Iboih,HB01050120,Potensi,Kota Sabang,WGS 1984,8,25.0
+75,75,PLTP Lho Pria Laot,HB01050120,Potensi,Kota Sabang,WGS 1984,8,50.0
+76,76,PLTP Jaboi 1  (Ftp2  - Ruptl 2019),HB01050120,"COD 2021 (5 MW), 2023 (5 MW)",Kota Sabang,WGS 1984,8,5.0
+77,77,PLTP Jaboi 2  (Ftp2 - Ruptl 2019),HB01050120,"COD 2021 (5 MW), 2023 (5 MW)",Kota Sabang,WGS 1984,8,5.0
+78,78,PLTP Jaboi 3  (Ftp2 - Ruptl 2019),HB01050120,Potensi (RUPTL 2019),Kota Sabang,WGS 1984,8,80.0
+79,79,PLTP Ie Seum - Krueng Raya,HB01050120,Potensi,Aceh Besar,WGS 1984,8,63.0
+80,80,PLTP Seulawah Agam 1 (Ftp2 - Ruptl 2019),HB01050120,"IPP, Potensi (RUPTL 2019)",Aceh Besar,WGS 1984,8,55.0
+81,81,PLTP Seulawah Agam  2 (Ftp2 - Ruptl 2019),HB01050120,"IPP, Potensi (RUPTL 2019)",Aceh Besar,WGS 1984,8,55.0
+82,82,PLTP Seulawah Agam  3,HB01050120,Potensi (RUPTL 2019),Aceh Besar,WGS 1984,8,55.0
+83,83,PLTP Alur Canang,HB01050120,Potensi (Survey Pendahuluan 2018),Pidie,WGS 1984,8,25.0
+84,84,PLTP Alue Long – Bangga,HB01050120,Potensi (Survey Pendahuluan 2018),Pidie,WGS 1984,8,100.0
+85,85,PLTP Tangse,HB01050120,Potensi (Survey Pendahuluan 2018),Pidie,WGS 1984,8,25.0
+86,86,PLTP Rimba Raya,HB01050120,Potensi,Bener Meriah,WGS 1984,8,100.0
+87,87,PLTP G. Geureudong (Ruptl 2019),HB01050120,"IPP, Potensi (RUPTL 2019)","A.Utara, A.Tengah, Bener Meriah",WGS 1984,8,50.0
+88,88,PLTP Simpang Balik,HB01050120,Potensi,Bener Meriah,WGS 1984,8,100.0
+89,89,PLTP Silih Nara,HB01050120,Potensi,Aceh Tengah,WGS 1984,8,100.0
+90,90,PLTP Meranti,HB01050120,Potensi,Aceh Timur,WGS 1984,8,25.0
+91,91,PLTP Brawang Buaya,HB01050120,Potensi,Aceh Tamiang,WGS 1984,8,25.0
+92,92,PLTP Kafi,HB01050120,Potensi,Gayo Lues,WGS 1984,8,25.0
+93,93,PLTP G. Kembar (Ruptl 2019),HB01050120,Potensi (RUPTL 2019),Gayo Lues,WGS 1984,8,110.0
+94,94,PLTP Dolok Perkirapan,HB01050120,Potensi,Gayo Lues,WGS 1984,8,25.0
+95,95,PLTP Lokop (Ruptl 2019),HB01050120,Potensi (RUPTL 2019),Aceh Timur,WGS 1984,8,40.0
