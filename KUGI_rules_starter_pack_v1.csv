@@ -1,0 +1,812 @@
+Unsur,Nama_Atribut,Tipe_Data,Domain_Nilai,Status_Atribut
+Modeldeformasi,fcode,Character String,,Mandatory
+Modeldeformasi,namobj,Character String,Nama Rupabumi,Mandatory
+Modeldeformasi,objectid,Integer,,Mandatory
+Modeldeformasi,shape,Geometry,,Optional
+Modeldeformasi,metadata,Character String,,Optional
+Modeldeformasi,remark,Character String,,Optional
+Modeldeformasi,srs_id,Character String,,Optional
+Modeldeformasi,shape_area,Real,,Mandatory
+Modeldeformasi,shape_length,Real,,Optional
+Modelgeoid,fcode,Character String,,Mandatory
+Modelgeoid,namobj,Character String,Nama Rupabumi,Mandatory
+Modelgeoid,objectid,Integer,,Mandatory
+Modelgeoid,shape,Geometry,,Optional
+Modelgeoid,metadata,Character String,,Optional
+Modelgeoid,remark,Character String,,Optional
+Modelgeoid,srs_id,Character String,,Optional
+Titikkontrolgeodesi,fcode,Character String,,Mandatory
+Titikkontrolgeodesi,namobj,Character String,Nama Rupabumi,Mandatory
+Titikkontrolgeodesi,objectid,Integer,,Mandatory
+Titikkontrolgeodesi,shape,Geometry,,Optional
+Titikkontrolgeodesi,metadata,Character String,,Optional
+Titikkontrolgeodesi,remark,Character String,,Optional
+Titikkontrolgeodesi,srs_id,Character String,,Optional
+Titikkontroltanah,fcode,Character String,,Mandatory
+Titikkontroltanah,namobj,Character String,Nama Rupabumi,Mandatory
+Titikkontroltanah,objectid,Integer,,Mandatory
+Titikkontroltanah,shape,Geometry,,Optional
+Titikkontroltanah,metadata,Character String,,Optional
+Titikkontroltanah,remark,Character String,,Optional
+Titikkontroltanah,srs_id,Character String,,Optional
+Datumpasut,fcode,Character String,,Mandatory
+Datumpasut,namobj,Character String,Nama Rupabumi,Mandatory
+Datumpasut,objectid,Integer,,Mandatory
+Datumpasut,shape,Geometry,,Optional
+Datumpasut,metadata,Character String,,Optional
+Datumpasut,remark,Character String,,Optional
+Datumpasut,srs_id,Character String,,Optional
+Stasiunpasut,fcode,Character String,,Mandatory
+Stasiunpasut,namobj,Character String,Nama Rupabumi,Mandatory
+Stasiunpasut,objectid,Integer,,Mandatory
+Stasiunpasut,shape,Geometry,,Optional
+Stasiunpasut,metadata,Character String,,Optional
+Stasiunpasut,remark,Character String,,Optional
+Stasiunpasut,srs_id,Character String,,Optional
+Administrasi,fcode,Character String,,Mandatory
+Administrasi,namobj,Character String,Nama Rupabumi,Mandatory
+Administrasi,objectid,Integer,,Mandatory
+Administrasi,shape,Geometry,,Optional
+Administrasi,metadata,Character String,,Optional
+Administrasi,remark,Character String,,Optional
+Administrasi,srs_id,Character String,,Optional
+Administrasi,shape_area,Real,,Mandatory
+Administrasi,shape_length,Real,,Optional
+Adminlaut,fcode,Character String,,Mandatory
+Adminlaut,namobj,Character String,Nama Rupabumi,Mandatory
+Adminlaut,objectid,Integer,,Mandatory
+Adminlaut,shape,Geometry,,Optional
+Adminlaut,metadata,Character String,,Optional
+Adminlaut,remark,Character String,,Optional
+Adminlaut,srs_id,Character String,,Optional
+Adminlaut,shape_area,Real,,Mandatory
+Adminlaut,shape_length,Real,,Optional
+Batasnegaradarat,fcode,Character String,,Mandatory
+Batasnegaradarat,namobj,Character String,Nama Rupabumi,Mandatory
+Batasnegaradarat,objectid,Integer,,Mandatory
+Batasnegaradarat,shape,Geometry,,Optional
+Batasnegaradarat,metadata,Character String,,Optional
+Batasnegaradarat,remark,Character String,,Optional
+Batasnegaradarat,srs_id,Character String,,Optional
+Batasnegaradarat,shape_length,Real,,Mandatory
+Bloksensus,fcode,Character String,,Mandatory
+Bloksensus,namobj,Character String,Nama Rupabumi,Mandatory
+Bloksensus,objectid,Integer,,Mandatory
+Bloksensus,shape,Geometry,,Optional
+Bloksensus,metadata,Character String,,Optional
+Bloksensus,remark,Character String,,Optional
+Bloksensus,srs_id,Character String,,Optional
+Bloksensus,shape_area,Real,,Mandatory
+Bloksensus,shape_length,Real,,Optional
+Kawasanhutan,fcode,Character String,,Mandatory
+Kawasanhutan,namobj,Character String,Nama Rupabumi,Mandatory
+Kawasanhutan,objectid,Integer,,Mandatory
+Kawasanhutan,shape,Geometry,,Optional
+Kawasanhutan,metadata,Character String,,Optional
+Kawasanhutan,remark,Character String,,Optional
+Kawasanhutan,srs_id,Character String,,Optional
+Kawasanhutan,shape_area,Real,,Mandatory
+Kawasanhutan,shape_length,Real,,Optional
+Kodepos,fcode,Character String,,Mandatory
+Kodepos,namobj,Character String,Nama Rupabumi,Mandatory
+Kodepos,objectid,Integer,,Mandatory
+Kodepos,shape,Geometry,,Optional
+Kodepos,metadata,Character String,,Optional
+Kodepos,remark,Character String,,Optional
+Kodepos,srs_id,Character String,,Optional
+Kodepos,shape_area,Real,,Mandatory
+Kodepos,shape_length,Real,,Optional
+Konservasisda,fcode,Character String,,Mandatory
+Konservasisda,namobj,Character String,Nama Rupabumi,Mandatory
+Konservasisda,objectid,Integer,,Mandatory
+Konservasisda,shape,Geometry,,Optional
+Konservasisda,metadata,Character String,,Optional
+Konservasisda,remark,Character String,,Optional
+Konservasisda,srs_id,Character String,,Optional
+Konservasisda,shape_area,Real,,Mandatory
+Konservasisda,shape_length,Real,,Optional
+Sukuterasing,fcode,Character String,,Mandatory
+Sukuterasing,namobj,Character String,Nama Rupabumi,Mandatory
+Sukuterasing,objectid,Integer,,Mandatory
+Sukuterasing,shape,Geometry,,Optional
+Sukuterasing,metadata,Character String,,Optional
+Sukuterasing,remark,Character String,,Optional
+Sukuterasing,srs_id,Character String,,Optional
+Sukuterasing,shape_area,Real,,Mandatory
+Sukuterasing,shape_length,Real,,Optional
+Titikbatasadm,fcode,Character String,,Mandatory
+Titikbatasadm,namobj,Character String,Nama Rupabumi,Mandatory
+Titikbatasadm,objectid,Integer,,Mandatory
+Titikbatasadm,shape,Geometry,,Optional
+Titikbatasadm,metadata,Character String,,Optional
+Titikbatasadm,remark,Character String,,Optional
+Titikbatasadm,srs_id,Character String,,Optional
+Blokksakpa,fcode,Character String,,Mandatory
+Blokksakpa,namobj,Character String,Nama Rupabumi,Mandatory
+Blokksakpa,objectid,Integer,,Mandatory
+Blokksakpa,shape,Geometry,,Optional
+Blokksakpa,metadata,Character String,,Optional
+Blokksakpa,remark,Character String,,Optional
+Blokksakpa,srs_id,Character String,,Optional
+Blokksakpa,shape_area,Real,,Mandatory
+Blokksakpa,shape_length,Real,,Optional
+Khdtk,fcode,Character String,,Mandatory
+Khdtk,namobj,Character String,Nama Rupabumi,Mandatory
+Khdtk,objectid,Integer,,Mandatory
+Khdtk,shape,Geometry,,Optional
+Khdtk,metadata,Character String,,Optional
+Khdtk,remark,Character String,,Optional
+Khdtk,srs_id,Character String,,Optional
+Khdtk,shape_area,Real,,Mandatory
+Khdtk,shape_length,Real,,Optional
+Pilarbatasnegara,fcode,Character String,,Mandatory
+Pilarbatasnegara,namobj,Character String,Nama Rupabumi,Mandatory
+Pilarbatasnegara,objectid,Integer,,Mandatory
+Pilarbatasnegara,shape,Geometry,,Optional
+Pilarbatasnegara,metadata,Character String,,Optional
+Pilarbatasnegara,remark,Character String,,Optional
+Pilarbatasnegara,srs_id,Character String,,Optional
+Pntpnkwsnhutan,fcode,Character String,,Mandatory
+Pntpnkwsnhutan,namobj,Character String,Nama Rupabumi,Mandatory
+Pntpnkwsnhutan,objectid,Integer,,Mandatory
+Pntpnkwsnhutan,shape,Geometry,,Optional
+Pntpnkwsnhutan,metadata,Character String,,Optional
+Pntpnkwsnhutan,remark,Character String,,Optional
+Pntpnkwsnhutan,srs_id,Character String,,Optional
+Pntpnkwsnhutan,shape_area,Real,,Mandatory
+Pntpnkwsnhutan,shape_length,Real,,Optional
+Pnunjukkwsnhutan,fcode,Character String,,Mandatory
+Pnunjukkwsnhutan,namobj,Character String,Nama Rupabumi,Mandatory
+Pnunjukkwsnhutan,objectid,Integer,,Mandatory
+Pnunjukkwsnhutan,shape,Geometry,,Optional
+Pnunjukkwsnhutan,metadata,Character String,,Optional
+Pnunjukkwsnhutan,remark,Character String,,Optional
+Pnunjukkwsnhutan,srs_id,Character String,,Optional
+Pnunjukkwsnhutan,shape_area,Real,,Mandatory
+Pnunjukkwsnhutan,shape_length,Real,,Optional
+Tatabataskhdtk,fcode,Character String,,Mandatory
+Tatabataskhdtk,namobj,Character String,Nama Rupabumi,Mandatory
+Tatabataskhdtk,objectid,Integer,,Mandatory
+Tatabataskhdtk,shape,Geometry,,Optional
+Tatabataskhdtk,metadata,Character String,,Optional
+Tatabataskhdtk,remark,Character String,,Optional
+Tatabataskhdtk,srs_id,Character String,,Optional
+Tatabataskhdtk,shape_length,Real,,Mandatory
+Tatabataskwsnhutan,fcode,Character String,,Mandatory
+Tatabataskwsnhutan,namobj,Character String,Nama Rupabumi,Mandatory
+Tatabataskwsnhutan,objectid,Integer,,Mandatory
+Tatabataskwsnhutan,shape,Geometry,,Optional
+Tatabataskwsnhutan,metadata,Character String,,Optional
+Tatabataskwsnhutan,remark,Character String,,Optional
+Tatabataskwsnhutan,srs_id,Character String,,Optional
+Tatabataskwsnhutan,shape_length,Real,,Mandatory
+Zonasitn,fcode,Character String,,Mandatory
+Zonasitn,namobj,Character String,Nama Rupabumi,Mandatory
+Zonasitn,objectid,Integer,,Mandatory
+Zonasitn,shape,Geometry,,Optional
+Zonasitn,metadata,Character String,,Optional
+Zonasitn,remark,Character String,,Optional
+Zonasitn,srs_id,Character String,,Optional
+Zonasitn,shape_area,Real,,Mandatory
+Zonasitn,shape_length,Real,,Optional
+Grpangkal,fcode,Character String,,Mandatory
+Grpangkal,namobj,Character String,Nama Rupabumi,Mandatory
+Grpangkal,objectid,Integer,,Mandatory
+Grpangkal,shape,Geometry,,Optional
+Grpangkal,metadata,Character String,,Optional
+Grpangkal,remark,Character String,,Optional
+Grpangkal,srs_id,Character String,,Optional
+Grpangkal,shape_length,Real,,Mandatory
+Perjanjianlaut,fcode,Character String,,Mandatory
+Perjanjianlaut,namobj,Character String,Nama Rupabumi,Mandatory
+Perjanjianlaut,objectid,Integer,,Mandatory
+Perjanjianlaut,shape,Geometry,,Optional
+Perjanjianlaut,metadata,Character String,,Optional
+Perjanjianlaut,remark,Character String,,Optional
+Perjanjianlaut,srs_id,Character String,,Optional
+Wpp,fcode,Character String,,Mandatory
+Wpp,namobj,Character String,Nama Rupabumi,Mandatory
+Wpp,objectid,Integer,,Mandatory
+Wpp,shape,Geometry,,Optional
+Wpp,metadata,Character String,,Optional
+Wpp,remark,Character String,,Optional
+Wpp,srs_id,Character String,,Optional
+Wpp,shape_area,Real,,Mandatory
+Wpp,shape_length,Real,,Optional
+Zee,fcode,Character String,,Mandatory
+Zee,namobj,Character String,Nama Rupabumi,Mandatory
+Zee,objectid,Integer,,Mandatory
+Zee,shape,Geometry,,Optional
+Zee,metadata,Character String,,Optional
+Zee,remark,Character String,,Optional
+Zee,srs_id,Character String,,Optional
+Zee,shape_length,Real,,Mandatory
+Lautteritorial,fcode,Character String,,Mandatory
+Lautteritorial,namobj,Character String,Nama Rupabumi,Mandatory
+Lautteritorial,objectid,Integer,,Mandatory
+Lautteritorial,shape,Geometry,,Optional
+Lautteritorial,metadata,Character String,,Optional
+Lautteritorial,remark,Character String,,Optional
+Lautteritorial,srs_id,Character String,,Optional
+Lautteritorial,shape_length,Real,,Mandatory
+Landaskontinen,fcode,Character String,,Mandatory
+Landaskontinen,namobj,Character String,Nama Rupabumi,Mandatory
+Landaskontinen,objectid,Integer,,Mandatory
+Landaskontinen,shape,Geometry,,Optional
+Landaskontinen,metadata,Character String,,Optional
+Landaskontinen,remark,Character String,,Optional
+Landaskontinen,srs_id,Character String,,Optional
+Landaskontinen,shape_area,Real,,Mandatory
+Landaskontinen,shape_length,Real,,Optional
+Zee,shape_area,Real,,Mandatory
+Jalan,fcode,Character String,,Mandatory
+Jalan,namobj,Character String,Nama Rupabumi,Mandatory
+Jalan,objectid,Integer,,Mandatory
+Jalan,shape,Geometry,,Optional
+Jalan,metadata,Character String,,Optional
+Jalan,remark,Character String,,Optional
+Jalan,srs_id,Character String,,Optional
+Jalan,shape_area,Real,,Mandatory
+Jalan,shape_length,Real,,Optional
+Jalan,jarrjl,Character String,,Optional
+Jalan,jlnlyg,Character String,,Optional
+Jalan,jparjl,Character String,,Optional
+Jalan,klsrjl,Character String,,Optional
+Jalan,konrjl,Character String,,Optional
+Jalan,kpmstr,Character String,,Optional
+Jalan,lbrbhj,Real,,Optional
+Jalan,lbrjln,Real,,Optional
+Jalan,lkonof,Character String,,Optional
+Jalan,lksbsp,Character String,,Optional
+Jalan,lksrta,Character String,,Optional
+Jalan,llhrrt,Real,,Optional
+Jalan,locrjl,Character String,,Optional
+Jalan,medrjl,Character String,,Optional
+Jalan,spcrjl,Character String,,Optional
+Jalan,tolrjl,Character String,,Optional
+Jalan,wlyrjl,Character String,,Optional
+Jalan,fgsrjl,Character String,,Optional
+Jalan,arhrjl,Character String,,Optional
+Jalan,autrjl,Character String,,Optional
+Jalan,matrjl,Character String,,Optional
+Jalan,starjl,Character String,,Optional
+Jalan,utkrjl,Character String,,Optional
+Jalan,vlcprt,Real,,Optional
+Jalan,tgl_sk,Character String,,Optional
+Jembatan,fcode,Character String,,Mandatory
+Jembatan,namobj,Character String,Nama Rupabumi,Mandatory
+Jembatan,objectid,Integer,,Mandatory
+Jembatan,shape,Geometry,,Optional
+Jembatan,metadata,Character String,,Optional
+Jembatan,remark,Character String,,Optional
+Jembatan,srs_id,Character String,,Optional
+Jembatan,shape_area,Real,,Mandatory
+Jembatan,shape_length,Real,,Optional
+Pengujiankendaraan,fcode,Character String,,Mandatory
+Pengujiankendaraan,namobj,Character String,Nama Rupabumi,Mandatory
+Pengujiankendaraan,objectid,Integer,,Mandatory
+Pengujiankendaraan,shape,Geometry,,Optional
+Pengujiankendaraan,metadata,Character String,,Optional
+Pengujiankendaraan,remark,Character String,,Optional
+Pengujiankendaraan,srs_id,Character String,,Optional
+Penimbangankendaraan,fcode,Character String,,Mandatory
+Penimbangankendaraan,namobj,Character String,Nama Rupabumi,Mandatory
+Penimbangankendaraan,objectid,Integer,,Mandatory
+Penimbangankendaraan,shape,Geometry,,Optional
+Penimbangankendaraan,metadata,Character String,,Optional
+Penimbangankendaraan,remark,Character String,,Optional
+Penimbangankendaraan,srs_id,Character String,,Optional
+Terminalbus,fcode,Character String,,Mandatory
+Terminalbus,namobj,Character String,Nama Rupabumi,Mandatory
+Terminalbus,objectid,Integer,,Mandatory
+Terminalbus,shape,Geometry,,Optional
+Terminalbus,metadata,Character String,,Optional
+Terminalbus,remark,Character String,,Optional
+Terminalbus,srs_id,Character String,,Optional
+Terminalbus,shape_area,Real,,Mandatory
+Terminalbus,shape_length,Real,,Optional
+Terowongan,fcode,Character String,,Mandatory
+Terowongan,namobj,Character String,Nama Rupabumi,Mandatory
+Terowongan,objectid,Integer,,Mandatory
+Terowongan,shape,Geometry,,Optional
+Terowongan,metadata,Character String,,Optional
+Terowongan,remark,Character String,,Optional
+Terowongan,srs_id,Character String,,Optional
+Terowongan,shape_area,Real,,Mandatory
+Terowongan,shape_length,Real,,Optional
+Halte,fcode,Character String,,Mandatory
+Halte,namobj,Character String,Nama Rupabumi,Mandatory
+Halte,objectid,Integer,,Mandatory
+Halte,shape,Geometry,,Optional
+Halte,metadata,Character String,,Optional
+Halte,remark,Character String,,Optional
+Halte,srs_id,Character String,,Optional
+Medianjalan,fcode,Character String,,Mandatory
+Medianjalan,namobj,Character String,Nama Rupabumi,Mandatory
+Medianjalan,objectid,Integer,,Mandatory
+Medianjalan,shape,Geometry,,Optional
+Medianjalan,metadata,Character String,,Optional
+Medianjalan,remark,Character String,,Optional
+Medianjalan,srs_id,Character String,,Optional
+Medianjalan,shape_length,Real,,Mandatory
+Rass,fcode,Character String,,Mandatory
+Rass,namobj,Character String,Nama Rupabumi,Mandatory
+Rass,objectid,Integer,,Mandatory
+Rass,shape,Geometry,,Optional
+Rass,metadata,Character String,,Optional
+Rass,remark,Character String,,Optional
+Rass,srs_id,Character String,,Optional
+Rass,shape_length,Real,,Mandatory
+Pelabuhan,fcode,Character String,,Mandatory
+Pelabuhan,namobj,Character String,Nama Rupabumi,Mandatory
+Pelabuhan,objectid,Integer,,Mandatory
+Pelabuhan,shape,Geometry,,Optional
+Pelabuhan,metadata,Character String,,Optional
+Pelabuhan,remark,Character String,,Optional
+Pelabuhan,srs_id,Character String,,Optional
+Pelabuhan,shape_area,Real,,Mandatory
+Pelabuhan,shape_length,Real,,Optional
+Trayekpenyeberangan,fcode,Character String,,Mandatory
+Trayekpenyeberangan,namobj,Character String,Nama Rupabumi,Mandatory
+Trayekpenyeberangan,objectid,Integer,,Mandatory
+Trayekpenyeberangan,shape,Geometry,,Optional
+Trayekpenyeberangan,metadata,Character String,,Optional
+Trayekpenyeberangan,remark,Character String,,Optional
+Trayekpenyeberangan,srs_id,Character String,,Optional
+Trayekpenyeberangan,shape_length,Real,,Mandatory
+Alurplayar,fcode,Character String,,Mandatory
+Alurplayar,namobj,Character String,Nama Rupabumi,Mandatory
+Alurplayar,objectid,Integer,,Mandatory
+Alurplayar,shape,Geometry,,Optional
+Alurplayar,metadata,Character String,,Optional
+Alurplayar,remark,Character String,,Optional
+Alurplayar,srs_id,Character String,,Optional
+Alurplayar,shape_length,Real,,Mandatory
+Basinbelok,fcode,Character String,,Mandatory
+Basinbelok,namobj,Character String,Nama Rupabumi,Mandatory
+Basinbelok,objectid,Integer,,Mandatory
+Basinbelok,shape,Geometry,,Optional
+Basinbelok,metadata,Character String,,Optional
+Basinbelok,remark,Character String,,Optional
+Basinbelok,srs_id,Character String,,Optional
+Basinbelok,shape_area,Real,,Mandatory
+Basinbelok,shape_length,Real,,Optional
+Light,fcode,Character String,,Mandatory
+Light,namobj,Character String,Nama Rupabumi,Mandatory
+Light,objectid,Integer,,Mandatory
+Light,shape,Geometry,,Optional
+Light,metadata,Character String,,Optional
+Light,remark,Character String,,Optional
+Light,srs_id,Character String,,Optional
+Light,shape_area,Real,,Mandatory
+Light,shape_length,Real,,Optional
+Pendalaman,fcode,Character String,,Mandatory
+Pendalaman,namobj,Character String,Nama Rupabumi,Mandatory
+Pendalaman,objectid,Integer,,Mandatory
+Pendalaman,shape,Geometry,,Optional
+Pendalaman,metadata,Character String,,Optional
+Pendalaman,remark,Character String,,Optional
+Pendalaman,srs_id,Character String,,Optional
+Pendalaman,shape_area,Real,,Mandatory
+Pendalaman,shape_length,Real,,Optional
+Peringatan,fcode,Character String,,Mandatory
+Peringatan,namobj,Character String,Nama Rupabumi,Mandatory
+Peringatan,objectid,Integer,,Mandatory
+Peringatan,shape,Geometry,,Optional
+Peringatan,metadata,Character String,,Optional
+Peringatan,remark,Character String,,Optional
+Peringatan,srs_id,Character String,,Optional
+Peringatan,shape_area,Real,,Mandatory
+Peringatan,shape_length,Real,,Optional
+Perusahaanpelayaran,fcode,Character String,,Mandatory
+Perusahaanpelayaran,namobj,Character String,Nama Rupabumi,Mandatory
+Perusahaanpelayaran,objectid,Integer,,Mandatory
+Perusahaanpelayaran,shape,Geometry,,Optional
+Perusahaanpelayaran,metadata,Character String,,Optional
+Perusahaanpelayaran,remark,Character String,,Optional
+Perusahaanpelayaran,srs_id,Character String,,Optional
+Putar,fcode,Character String,,Mandatory
+Putar,namobj,Character String,Nama Rupabumi,Mandatory
+Putar,objectid,Integer,,Mandatory
+Putar,shape,Geometry,,Optional
+Putar,metadata,Character String,,Optional
+Putar,remark,Character String,,Optional
+Putar,srs_id,Character String,,Optional
+Skemapisahlalin,fcode,Character String,,Mandatory
+Skemapisahlalin,namobj,Character String,Nama Rupabumi,Mandatory
+Skemapisahlalin,objectid,Integer,,Mandatory
+Skemapisahlalin,shape,Geometry,,Optional
+Skemapisahlalin,metadata,Character String,,Optional
+Skemapisahlalin,remark,Character String,,Optional
+Skemapisahlalin,srs_id,Character String,,Optional
+Skemapisahlalin,shape_area,Real,,Mandatory
+Skemapisahlalin,shape_length,Real,,Optional
+Tandatransit,fcode,Character String,,Mandatory
+Tandatransit,namobj,Character String,Nama Rupabumi,Mandatory
+Tandatransit,objectid,Integer,,Mandatory
+Tandatransit,shape,Geometry,,Optional
+Tandatransit,metadata,Character String,,Optional
+Tandatransit,remark,Character String,,Optional
+Tandatransit,srs_id,Character String,,Optional
+Pelampungsuar,fcode,Character String,,Mandatory
+Pelampungsuar,namobj,Character String,Nama Rupabumi,Mandatory
+Pelampungsuar,objectid,Integer,,Mandatory
+Pelampungsuar,shape,Geometry,,Optional
+Pelampungsuar,metadata,Character String,,Optional
+Pelampungsuar,remark,Character String,,Optional
+Pelampungsuar,srs_id,Character String,,Optional
+Dermaga,fcode,Character String,,Mandatory
+Dermaga,namobj,Character String,Nama Rupabumi,Mandatory
+Dermaga,objectid,Integer,,Mandatory
+Dermaga,shape,Geometry,,Optional
+Dermaga,metadata,Character String,,Optional
+Dermaga,remark,Character String,,Optional
+Dermaga,srs_id,Character String,,Optional
+Dermaga,shape_area,Real,,Mandatory
+Dermaga,shape_length,Real,,Optional
+Srop,fcode,Character String,,Mandatory
+Srop,namobj,Character String,Nama Rupabumi,Mandatory
+Srop,objectid,Integer,,Mandatory
+Srop,shape,Geometry,,Optional
+Srop,metadata,Character String,,Optional
+Srop,remark,Character String,,Optional
+Srop,srs_id,Character String,,Optional
+Trayekangkutanlaut,fcode,Character String,,Mandatory
+Trayekangkutanlaut,namobj,Character String,Nama Rupabumi,Mandatory
+Trayekangkutanlaut,objectid,Integer,,Mandatory
+Trayekangkutanlaut,shape,Geometry,,Optional
+Trayekangkutanlaut,metadata,Character String,,Optional
+Trayekangkutanlaut,remark,Character String,,Optional
+Trayekangkutanlaut,srs_id,Character String,,Optional
+Trayekangkutanlaut,shape_length,Real,,Mandatory
+Radar,fcode,Character String,,Mandatory
+Radar,namobj,Character String,Nama Rupabumi,Mandatory
+Radar,objectid,Integer,,Mandatory
+Radar,shape,Geometry,,Optional
+Radar,metadata,Character String,,Optional
+Radar,remark,Character String,,Optional
+Radar,srs_id,Character String,,Optional
+Radar,shape_area,Real,,Mandatory
+Radar,shape_length,Real,,Optional
+Chgovrpoint,fcode,Character String,,Mandatory
+Chgovrpoint,namobj,Character String,Nama Rupabumi,Mandatory
+Chgovrpoint,objectid,Integer,,Mandatory
+Chgovrpoint,shape,Geometry,,Optional
+Chgovrpoint,metadata,Character String,,Optional
+Chgovrpoint,remark,Character String,,Optional
+Chgovrpoint,srs_id,Character String,,Optional
+Cntrlzone,fcode,Character String,,Mandatory
+Cntrlzone,namobj,Character String,Nama Rupabumi,Mandatory
+Cntrlzone,objectid,Integer,,Mandatory
+Cntrlzone,shape,Geometry,,Optional
+Cntrlzone,metadata,Character String,,Optional
+Cntrlzone,remark,Character String,,Optional
+Cntrlzone,srs_id,Character String,,Optional
+Cntrlzone,shape_area,Real,,Mandatory
+Cntrlzone,shape_length,Real,,Optional
+Flightinforeg,fcode,Character String,,Mandatory
+Flightinforeg,namobj,Character String,Nama Rupabumi,Mandatory
+Flightinforeg,objectid,Integer,,Mandatory
+Flightinforeg,shape,Geometry,,Optional
+Flightinforeg,metadata,Character String,,Optional
+Flightinforeg,remark,Character String,,Optional
+Flightinforeg,srs_id,Character String,,Optional
+Flightinforeg,shape_area,Real,,Mandatory
+Flightinforeg,shape_length,Real,,Optional
+Flightpath,fcode,Character String,,Mandatory
+Flightpath,namobj,Character String,Nama Rupabumi,Mandatory
+Flightpath,objectid,Integer,,Mandatory
+Flightpath,shape,Geometry,,Optional
+Flightpath,metadata,Character String,,Optional
+Flightpath,remark,Character String,,Optional
+Flightpath,srs_id,Character String,,Optional
+Flightpath,shape_length,Real,,Mandatory
+Flightservicesectr,fcode,Character String,,Mandatory
+Flightservicesectr,namobj,Character String,Nama Rupabumi,Mandatory
+Flightservicesectr,objectid,Integer,,Mandatory
+Flightservicesectr,shape,Geometry,,Optional
+Flightservicesectr,metadata,Character String,,Optional
+Flightservicesectr,remark,Character String,,Optional
+Flightservicesectr,srs_id,Character String,,Optional
+Flightservicesectr,shape_area,Real,,Mandatory
+Flightservicesectr,shape_length,Real,,Optional
+Obstacle,fcode,Character String,,Mandatory
+Obstacle,namobj,Character String,Nama Rupabumi,Mandatory
+Obstacle,objectid,Integer,,Mandatory
+Obstacle,shape,Geometry,,Optional
+Obstacle,metadata,Character String,,Optional
+Obstacle,remark,Character String,,Optional
+Obstacle,srs_id,Character String,,Optional
+Radiobeacon,fcode,Character String,,Mandatory
+Radiobeacon,namobj,Character String,Nama Rupabumi,Mandatory
+Radiobeacon,objectid,Integer,,Mandatory
+Radiobeacon,shape,Geometry,,Optional
+Radiobeacon,metadata,Character String,,Optional
+Radiobeacon,remark,Character String,,Optional
+Radiobeacon,srs_id,Character String,,Optional
+Runwyholdpos,fcode,Character String,,Mandatory
+Runwyholdpos,namobj,Character String,Nama Rupabumi,Mandatory
+Runwyholdpos,objectid,Integer,,Mandatory
+Runwyholdpos,shape,Geometry,,Optional
+Runwyholdpos,metadata,Character String,,Optional
+Runwyholdpos,remark,Character String,,Optional
+Runwyholdpos,srs_id,Character String,,Optional
+Runwyvis,fcode,Character String,,Mandatory
+Runwyvis,namobj,Character String,Nama Rupabumi,Mandatory
+Runwyvis,objectid,Integer,,Mandatory
+Runwyvis,shape,Geometry,,Optional
+Runwyvis,metadata,Character String,,Optional
+Runwyvis,remark,Character String,,Optional
+Runwyvis,srs_id,Character String,,Optional
+Runwyvis,shape_area,Real,,Mandatory
+Runwyvis,shape_length,Real,,Optional
+Stopbar,fcode,Character String,,Mandatory
+Stopbar,namobj,Character String,Nama Rupabumi,Mandatory
+Stopbar,objectid,Integer,,Mandatory
+Stopbar,shape,Geometry,,Optional
+Stopbar,metadata,Character String,,Optional
+Stopbar,remark,Character String,,Optional
+Stopbar,srs_id,Character String,,Optional
+Taxiwy,fcode,Character String,,Mandatory
+Taxiwy,namobj,Character String,Nama Rupabumi,Mandatory
+Taxiwy,objectid,Integer,,Mandatory
+Taxiwy,shape,Geometry,,Optional
+Taxiwy,metadata,Character String,,Optional
+Taxiwy,remark,Character String,,Optional
+Taxiwy,srs_id,Character String,,Optional
+Taxiwy,shape_area,Real,,Mandatory
+Taxiwy,shape_length,Real,,Optional
+Terminalcntrl,fcode,Character String,,Mandatory
+Terminalcntrl,namobj,Character String,Nama Rupabumi,Mandatory
+Terminalcntrl,objectid,Integer,,Mandatory
+Terminalcntrl,shape,Geometry,,Optional
+Terminalcntrl,metadata,Character String,,Optional
+Terminalcntrl,remark,Character String,,Optional
+Terminalcntrl,srs_id,Character String,,Optional
+Terminalcntrl,shape_area,Real,,Mandatory
+Terminalcntrl,shape_length,Real,,Optional
+Threshold,fcode,Character String,,Mandatory
+Threshold,namobj,Character String,Nama Rupabumi,Mandatory
+Threshold,objectid,Integer,,Mandatory
+Threshold,shape,Geometry,,Optional
+Threshold,metadata,Character String,,Optional
+Threshold,remark,Character String,,Optional
+Threshold,srs_id,Character String,,Optional
+Vor,fcode,Character String,,Mandatory
+Vor,namobj,Character String,Nama Rupabumi,Mandatory
+Vor,objectid,Integer,,Mandatory
+Vor,shape,Geometry,,Optional
+Vor,metadata,Character String,,Optional
+Vor,remark,Character String,,Optional
+Vor,srs_id,Character String,,Optional
+Vor,shape_area,Real,,Mandatory
+Vor,shape_length,Real,,Optional
+Waypoint,fcode,Character String,,Mandatory
+Waypoint,namobj,Character String,Nama Rupabumi,Mandatory
+Waypoint,objectid,Integer,,Mandatory
+Waypoint,shape,Geometry,,Optional
+Waypoint,metadata,Character String,,Optional
+Waypoint,remark,Character String,,Optional
+Waypoint,srs_id,Character String,,Optional
+Advairspace,fcode,Character String,,Mandatory
+Advairspace,namobj,Character String,Nama Rupabumi,Mandatory
+Advairspace,objectid,Integer,,Mandatory
+Advairspace,shape,Geometry,,Optional
+Advairspace,metadata,Character String,,Optional
+Advairspace,remark,Character String,,Optional
+Advairspace,srs_id,Character String,,Optional
+Advairspace,shape_area,Real,,Mandatory
+Advairspace,shape_length,Real,,Optional
+Airport,fcode,Character String,,Mandatory
+Airport,namobj,Character String,Nama Rupabumi,Mandatory
+Airport,objectid,Integer,,Mandatory
+Airport,shape,Geometry,,Optional
+Airport,metadata,Character String,,Optional
+Airport,remark,Character String,,Optional
+Airport,srs_id,Character String,,Optional
+Airport,shape_area,Real,,Mandatory
+Airport,shape_length,Real,,Optional
+Bendung,fcode,Character String,,Mandatory
+Bendung,namobj,Character String,Nama Rupabumi,Mandatory
+Bendung,objectid,Integer,,Mandatory
+Bendung,shape,Geometry,,Optional
+Bendung,metadata,Character String,,Optional
+Bendung,remark,Character String,,Optional
+Bendung,srs_id,Character String,,Optional
+Bendungan,fcode,Character String,,Mandatory
+Bendungan,namobj,Character String,Nama Rupabumi,Mandatory
+Bendungan,objectid,Integer,,Mandatory
+Bendungan,shape,Geometry,,Optional
+Bendungan,metadata,Character String,,Optional
+Bendungan,remark,Character String,,Optional
+Bendungan,srs_id,Character String,,Optional
+Bendungan,shape_area,Real,,Mandatory
+Bendungan,shape_length,Real,,Optional
+Bendungan,fbd,Character String,,Optional
+Bendungan,fngair,Character String,,Optional
+Bendungan,pobd,Character String,,Optional
+Bendungan,status,Character String,,Optional
+Bendungan,tpbdgn,Character String,,Optional
+Bendungan,volair,Real,,Optional
+Danau,fcode,Character String,,Mandatory
+Danau,namobj,Character String,Nama Rupabumi,Mandatory
+Danau,objectid,Integer,,Mandatory
+Danau,shape,Geometry,,Optional
+Danau,metadata,Character String,,Optional
+Danau,remark,Character String,,Optional
+Danau,srs_id,Character String,,Optional
+Danau,shape_area,Real,,Mandatory
+Danau,shape_length,Real,,Optional
+Embung,fcode,Character String,,Mandatory
+Embung,namobj,Character String,Nama Rupabumi,Mandatory
+Embung,objectid,Integer,,Mandatory
+Embung,shape,Geometry,,Optional
+Embung,metadata,Character String,,Optional
+Embung,remark,Character String,,Optional
+Embung,srs_id,Character String,,Optional
+Embung,shape_area,Real,,Mandatory
+Embung,shape_length,Real,,Optional
+Empang,fcode,Character String,,Mandatory
+Empang,namobj,Character String,Nama Rupabumi,Mandatory
+Empang,objectid,Integer,,Mandatory
+Empang,shape,Geometry,,Optional
+Empang,metadata,Character String,,Optional
+Empang,remark,Character String,,Optional
+Empang,srs_id,Character String,,Optional
+Empang,shape_area,Real,,Mandatory
+Empang,shape_length,Real,,Optional
+Kanal,fcode,Character String,,Mandatory
+Kanal,namobj,Character String,Nama Rupabumi,Mandatory
+Kanal,objectid,Integer,,Mandatory
+Kanal,shape,Geometry,,Optional
+Kanal,metadata,Character String,,Optional
+Kanal,remark,Character String,,Optional
+Kanal,srs_id,Character String,,Optional
+Kanal,shape_area,Real,,Mandatory
+Kanal,shape_length,Real,,Optional
+Irigasi,fcode,Character String,,Mandatory
+Irigasi,namobj,Character String,Nama Rupabumi,Mandatory
+Irigasi,objectid,Integer,,Mandatory
+Irigasi,shape,Geometry,,Optional
+Irigasi,metadata,Character String,,Optional
+Irigasi,remark,Character String,,Optional
+Irigasi,srs_id,Character String,,Optional
+Irigasi,shape_length,Real,,Mandatory
+Kolam,fcode,Character String,,Mandatory
+Kolam,namobj,Character String,Nama Rupabumi,Mandatory
+Kolam,objectid,Integer,,Mandatory
+Kolam,shape,Geometry,,Optional
+Kolam,metadata,Character String,,Optional
+Kolam,remark,Character String,,Optional
+Kolam,srs_id,Character String,,Optional
+Kolam,shape_area,Real,,Mandatory
+Kolam,shape_length,Real,,Optional
+Mataair,fcode,Character String,,Mandatory
+Mataair,namobj,Character String,Nama Rupabumi,Mandatory
+Mataair,objectid,Integer,,Mandatory
+Mataair,shape,Geometry,,Optional
+Mataair,metadata,Character String,,Optional
+Mataair,remark,Character String,,Optional
+Mataair,srs_id,Character String,,Optional
+Rawa,fcode,Character String,,Mandatory
+Rawa,namobj,Character String,Nama Rupabumi,Mandatory
+Rawa,objectid,Integer,,Mandatory
+Rawa,shape,Geometry,,Optional
+Rawa,metadata,Character String,,Optional
+Rawa,remark,Character String,,Optional
+Rawa,srs_id,Character String,,Optional
+Rawa,shape_area,Real,,Mandatory
+Rawa,shape_length,Real,,Optional
+Sungai,fcode,Character String,,Mandatory
+Sungai,namobj,Character String,Nama Rupabumi,Mandatory
+Sungai,objectid,Integer,,Mandatory
+Sungai,shape,Geometry,,Optional
+Sungai,metadata,Character String,,Optional
+Sungai,remark,Character String,,Optional
+Sungai,srs_id,Character String,,Optional
+Sungai,shape_area,Real,,Mandatory
+Sungai,shape_length,Real,,Optional
+Tambak,fcode,Character String,,Mandatory
+Tambak,namobj,Character String,Nama Rupabumi,Mandatory
+Tambak,objectid,Integer,,Mandatory
+Tambak,shape,Geometry,,Optional
+Tambak,metadata,Character String,,Optional
+Tambak,remark,Character String,,Optional
+Tambak,srs_id,Character String,,Optional
+Tambak,shape_area,Real,,Mandatory
+Tambak,shape_length,Real,,Optional
+Waduk,fcode,Character String,,Mandatory
+Waduk,namobj,Character String,Nama Rupabumi,Mandatory
+Waduk,objectid,Integer,,Mandatory
+Waduk,shape,Geometry,,Optional
+Waduk,metadata,Character String,,Optional
+Waduk,remark,Character String,,Optional
+Waduk,srs_id,Character String,,Optional
+Waduk,shape_area,Real,,Mandatory
+Waduk,shape_length,Real,,Optional
+Kontur,fcode,Character String,,Mandatory
+Kontur,namobj,Character String,Nama Rupabumi,Mandatory
+Kontur,objectid,Integer,,Mandatory
+Kontur,shape,Geometry,,Optional
+Kontur,metadata,Character String,,Optional
+Kontur,remark,Character String,,Optional
+Kontur,srs_id,Character String,,Optional
+Kontur,shape_length,Real,,Mandatory
+Hutanmangrove,fcode,Character String,,Mandatory
+Hutanmangrove,namobj,Character String,Nama Rupabumi,Mandatory
+Hutanmangrove,objectid,Integer,,Mandatory
+Hutanmangrove,shape,Geometry,,Optional
+Hutanmangrove,metadata,Character String,,Optional
+Hutanmangrove,remark,Character String,,Optional
+Hutanmangrove,srs_id,Character String,,Optional
+Hutanmangrove,shape_area,Real,,Mandatory
+Hutanmangrove,shape_length,Real,,Optional
+Sawah,fcode,Character String,,Mandatory
+Sawah,namobj,Character String,Nama Rupabumi,Mandatory
+Sawah,objectid,Integer,,Mandatory
+Sawah,shape,Geometry,,Optional
+Sawah,metadata,Character String,,Optional
+Sawah,remark,Character String,,Optional
+Sawah,srs_id,Character String,,Optional
+Sawah,shape_area,Real,,Mandatory
+Sawah,shape_length,Real,,Optional
+Permukiman,fcode,Character String,,Mandatory
+Permukiman,namobj,Character String,Nama Rupabumi,Mandatory
+Permukiman,objectid,Integer,,Mandatory
+Permukiman,shape,Geometry,,Optional
+Permukiman,metadata,Character String,,Optional
+Permukiman,remark,Character String,,Optional
+Permukiman,srs_id,Character String,,Optional
+Permukiman,shape_area,Real,,Mandatory
+Permukiman,shape_length,Real,,Optional
+Toponimi,fcode,Character String,,Mandatory
+Toponimi,namobj,Character String,Nama Rupabumi,Mandatory
+Toponimi,objectid,Integer,,Mandatory
+Toponimi,shape,Geometry,,Optional
+Toponimi,metadata,Character String,,Optional
+Toponimi,remark,Character String,,Optional
+Toponimi,srs_id,Character String,,Optional
+Bidangtanahfisik,fcode,Character String,,Mandatory
+Bidangtanahfisik,namobj,Character String,Nama Rupabumi,Mandatory
+Bidangtanahfisik,objectid,Integer,,Mandatory
+Bidangtanahfisik,shape,Geometry,,Optional
+Bidangtanahfisik,metadata,Character String,,Optional
+Bidangtanahfisik,remark,Character String,,Optional
+Bidangtanahfisik,srs_id,Character String,,Optional
+Bidangtanahfisik,shape_area,Real,,Mandatory
+Bidangtanahfisik,shape_length,Real,,Optional
+Bidangtanah,fcode,Character String,,Mandatory
+Bidangtanah,namobj,Character String,Nama Rupabumi,Mandatory
+Bidangtanah,objectid,Integer,,Mandatory
+Bidangtanah,shape,Geometry,,Optional
+Bidangtanah,metadata,Character String,,Optional
+Bidangtanah,remark,Character String,,Optional
+Bidangtanah,srs_id,Character String,,Optional
+Bidangtanah,shape_length,Real,,Mandatory
+Tsunami,fcode,Character String,,Mandatory
+Tsunami,namobj,Character String,Nama Rupabumi,Mandatory
+Tsunami,objectid,Integer,,Mandatory
+Tsunami,shape,Geometry,,Optional
+Tsunami,metadata,Character String,,Optional
+Tsunami,remark,Character String,,Optional
+Tsunami,srs_id,Character String,,Optional
+Tsunami,shape_area,Real,,Mandatory
+Tsunami,shape_length,Real,,Optional
+Cakupancitra,fcode,Character String,,Mandatory
+Cakupancitra,namobj,Character String,Nama Rupabumi,Mandatory
+Cakupancitra,objectid,Integer,,Mandatory
+Cakupancitra,shape,Geometry,,Optional
+Cakupancitra,metadata,Character String,,Optional
+Cakupancitra,remark,Character String,,Optional
+Cakupancitra,srs_id,Character String,,Optional
+Cakupancitra,shape_area,Real,,Mandatory
+Cakupancitra,shape_length,Real,,Optional
+Polaruang,fcode,Character String,,Mandatory
+Polaruang,namobj,Character String,Nama Rupabumi,Mandatory
+Polaruang,objectid,Integer,,Mandatory
+Polaruang,shape,Geometry,,Optional
+Polaruang,metadata,Character String,,Optional
+Polaruang,remark,Character String,,Optional
+Polaruang,srs_id,Character String,,Optional
+Polaruang,shape_area,Real,,Mandatory
+Polaruang,shape_length,Real,,Optional
